@@ -22,7 +22,7 @@ npm run start
 
 ## Author
 
-👤 **Luius Dueñas  **
+👤 **Luis Dueñas  **
 
 * Github: [@LuisDuenas7  ](https://github.com/LuisDuenas7  )
 * LinkedIn: [@linkedin.com\/in\/luis-dueñas-becerra-80aa3b228](https://linkedin.com/in/linkedin.com\/in\/luis-dueñas-becerra-80aa3b228)
