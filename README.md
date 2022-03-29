@@ -6,7 +6,7 @@
 > Itst 
 
 
-### ✨ [Demo](quotes-ld7-netlify.app)
+### ✨ [Demo](https://quotes-ld7.netlify.app/)
 
 ## Install
 
